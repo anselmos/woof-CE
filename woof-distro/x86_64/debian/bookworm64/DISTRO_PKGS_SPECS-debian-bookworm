@@ -301,6 +301,7 @@ yes|wayland-dev|libwayland-dev,wayland-protocols,libwayland-bin|exe>dev,dev,doc>
 yes|xsltproc|xsltproc|exe>dev,dev,doc>dev,nls>dev||deps:yes
 yes|vim|libgpm2,vim-common,vim-runtime,gpm,vim-doc,vim-scripts,xxd|exe>dev,dev,doc>dev,nls>dev||deps:yes
 yes|git|git-man,liberror-perl,git-doc,git-gui,gitk,gitweb,git-cvs|exe>dev,dev,doc>dev,nls>dev||deps:yes
+yes|google-chrome-stable|google-chrome-stable|exe>dev,dev,doc>dev,nls>dev||deps:yes
 "
 
 PKGS_SPECS_TABLE="$PKGS_SPECS_TABLE
