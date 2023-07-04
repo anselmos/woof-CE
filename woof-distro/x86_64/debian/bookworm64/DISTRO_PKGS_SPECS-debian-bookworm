@@ -300,7 +300,7 @@ yes|texinfo|texinfo|exe>dev,dev,doc>dev,nls>dev||deps:yes
 yes|wayland-dev|libwayland-dev,wayland-protocols,libwayland-bin|exe>dev,dev,doc>dev,nls>dev||deps:yes
 yes|xsltproc|xsltproc|exe>dev,dev,doc>dev,nls>dev||deps:yes
 yes|vim|libgpm2,vim-common,vim-runtime,gpm,vim-doc,vim-scripts,xxd|exe>dev,dev,doc>dev,nls>dev||deps:yes
-yes|git|git-deamon-run,git-man,liberror-perl,git-deamon-sysvinit,git-doc,git-email,git-gui,gitk,gitweb,git-cvs|exe>dev,dev,doc>dev,nls>dev||deps:yes
+yes|git|git-man,liberror-perl,git-deamon-sysvinit,git-doc,git-email,git-gui,gitk,gitweb,git-cvs|exe>dev,dev,doc>dev,nls>dev||deps:yes
 "
 
 PKGS_SPECS_TABLE="$PKGS_SPECS_TABLE
