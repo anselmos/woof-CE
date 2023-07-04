@@ -299,6 +299,7 @@ yes|pkg-config|pkg-config|exe>dev,dev||deps:yes # transitional package, pulls pk
 yes|texinfo|texinfo|exe>dev,dev,doc>dev,nls>dev||deps:yes
 yes|wayland-dev|libwayland-dev,wayland-protocols,libwayland-bin|exe>dev,dev,doc>dev,nls>dev||deps:yes
 yes|xsltproc|xsltproc|exe>dev,dev,doc>dev,nls>dev||deps:yes
+yes|vim|libgpm2,vim-common,vim-runtime,gpm,ctags,vim-doc,vim-scripts,xxd|exe>dev,dev,doc>dev,nls>dev||deps:yes
 "
 
 PKGS_SPECS_TABLE="$PKGS_SPECS_TABLE
